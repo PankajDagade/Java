@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AddmisionApplication {
 
 	public static void main(String[] args) {
+		System.out.println("ABC");
 		SpringApplication.run(AddmisionApplication.class, args);
 	}
 
